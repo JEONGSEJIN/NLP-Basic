@@ -1,2 +1,2 @@
-# NLP-NaturalLanguageProcessing-Basic
-This Repository is NLP(Natural Language Processing) BABY
+# NLP-Basic
+This Repository give Knowledge of NLP(Natural Language Processing)
